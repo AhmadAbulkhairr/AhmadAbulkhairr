@@ -1,6 +1,6 @@
 # Hi there, I'm Ahmad Abu Alkheir! 👋
 
-![Banner]([https://your-image-url.com](https://miro.medium.com/v2/resize:fit:1400/1*GNFNf_V7rj_C2YUCeZNzsw.jpeg))
+![Banner]([https://miro.medium.com/v2/resize:fit:1400/1*GNFNf_V7rj_C2YUCeZNzsw.jpeg])
 
 ## 👨‍💻 About Me
 
