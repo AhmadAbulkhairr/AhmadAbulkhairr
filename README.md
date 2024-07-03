@@ -1,12 +1,14 @@
 # Hi there, I'm Ahmad Abu Alkheir! 👋
 
-![Banner]([https://miro.medium.com/v2/resize:fit:1400/1*GNFNf_V7rj_C2YUCeZNzsw.jpeg])
+![Banner](https://miro.medium.com/v2/resize:fit:1400/1*GNFNf_V7rj_C2YUCeZNzsw.jpeg)
+
 
 ## 👨‍💻 About Me
 
 I am an Industrial Engineer transitioning to a Full Stack Web Developer.
 
 - 🌱 I’m currently learning more about backend development with Node.js and MongoDB.
+- 🎯 Fun fact: I’m actively looking for a job where I can put my coding skills to work. Let's build something amazing together!
 - 👯 I’m looking to collaborate on open-source projects.
 - 💬 Ask me about anything related to web development.
 - 📫 How to reach me: ahmad.m.abulkhair@gmail.com
