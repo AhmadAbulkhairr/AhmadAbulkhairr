@@ -16,7 +16,7 @@ I am an Industrial Engineer transitioning to a Full Stack Web Developer.
 ## 🚀 Skills
 
 - **Languages**: JavaScript, HTML, CSS
-- **Frontend**: React.js, Material-UI, Bootstrap
+- **Frontend**: React.js, Material-UI, Bootstrap, jquery 
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB
 - **Tools**: Git, GitHub, Visual Studio Code
