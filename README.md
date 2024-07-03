@@ -30,20 +30,11 @@ I am an Industrial Engineer transitioning to a Full Stack Web Developer.
 ### [Learno E-Learning Platform](https://github.com/AhmadAbulkhairr/Project4-E-learning)
 An online platform that connects students and teachers, offering various courses and live chat functionality.
 
-### [Project 2](https://github.com/your-username/project2)
-Description of your second project.
 
-### [Project 3](https://github.com/your-username/project3)
-Description of your third project.
-
-## 📝 Blog Posts
-
-- [Title of Blog Post 1](https://your-blog-url.com/post1)
-- [Title of Blog Post 2](https://your-blog-url.com/post2)
 
 ## 📫 Contact Me
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/ahmadabualkhair/)
 - Email: [ahmad.m.abulkhair@gmail.com](mailto:ahmad.m.abulkhair@gmail.com)
 
 ## ⚡ Fun Fact
