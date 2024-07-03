@@ -27,7 +27,7 @@ I am an Industrial Engineer transitioning to a Full Stack Web Developer.
 
 ## 📂 Projects
 
-### [Learno E-Learning Platform](https://github.com/C11-AhmadAbulkhairr/Project4-E-learning)
+### [Learno E-Learning Platform](https://github.com/AhmadAbulkhairr/Project4-E-learning)
 An online platform that connects students and teachers, offering various courses and live chat functionality.
 
 ### [Project 2](https://github.com/your-username/project2)
