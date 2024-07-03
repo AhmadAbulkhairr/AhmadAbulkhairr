@@ -8,7 +8,7 @@
 I am an Industrial Engineer transitioning to a Full Stack Web Developer.
 
 - 🌱 I’m currently learning more about backend development with Node.js and MongoDB.
-- 🎯 Fun fact: I’m actively looking for a job where I can put my coding skills to work. Let's build something amazing together!
+- 🎯 I’m actively looking for a job where I can put my coding skills to work. Let's build something amazing together!
 - 👯 I’m looking to collaborate on open-source projects.
 - 💬 Ask me about anything related to web development.
 - 📫 How to reach me: ahmad.m.abulkhair@gmail.com
