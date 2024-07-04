@@ -34,7 +34,7 @@ An online platform that connects students and teachers, offering various courses
 
 ## 📫 Contact Me
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/ahmadabualkhair/)
+- LinkedIn: [Ahmad Abu alkheir](https://www.linkedin.com/in/ahmadabualkhair/)
 - Email: [ahmad.m.abulkhair@gmail.com](mailto:ahmad.m.abulkhair@gmail.com)
 
 ## ⚡ Fun Fact
