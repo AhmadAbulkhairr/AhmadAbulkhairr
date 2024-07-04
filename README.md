@@ -23,7 +23,7 @@ I am an Industrial Engineer transitioning to a Full Stack Web Developer.
 
 ## 📈 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&hide_border=true)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=AhmadAbulkhairr&show_icons=true&hide_border=true)
 
 ## 📂 Projects
 
