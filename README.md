@@ -2,7 +2,6 @@
 
 ![Banner](https://miro.medium.com/v2/resize:fit:1400/1*GNFNf_V7rj_C2YUCeZNzsw.jpeg)
 
-
 ## 👨‍💻 About Me
 
 I am an Industrial Engineer transitioning to a Full Stack Web Developer.
@@ -16,9 +15,9 @@ I am an Industrial Engineer transitioning to a Full Stack Web Developer.
 ## 🚀 Skills
 
 - **Languages**: JavaScript, HTML, CSS
-- **Frontend**: React.js, Material-UI, Bootstrap, jquery 
+- **Frontend**: React.js, Material-UI, Bootstrap, jQuery
 - **Backend**: Node.js, Express.js
-- **Database**: MongoDB
+- **Database**: MongoDB, PostgreSQL
 - **Tools**: Git, GitHub, Visual Studio Code
 
 ## 📈 GitHub Stats
@@ -30,16 +29,18 @@ I am an Industrial Engineer transitioning to a Full Stack Web Developer.
 ### [Learno E-Learning Platform](https://github.com/AhmadAbulkhairr/Project4-E-learning)
 An online platform that connects students and teachers, offering various courses and live chat functionality.
 
-
+### [FeedMe Food Delivery Website](https://github.com/AlphaTeamMeraki/MERAKI_Academy_Project_5)
+A food delivery website with roles for admin, customer, restaurant owner, and rider. The platform offers a seamless experience for managing orders and deliveries.
 
 ## 📫 Contact Me
 
-- LinkedIn: [Ahmad Abu alkheir](https://www.linkedin.com/in/ahmadabualkhair/)
+- LinkedIn: [Ahmad Abu Alkheir](https://www.linkedin.com/in/ahmadabualkhair/)
 - Email: [ahmad.m.abulkhair@gmail.com](mailto:ahmad.m.abulkhair@gmail.com)
 
 ## ⚡ Fun Fact
 
 I'm still trying to love coding :)
+
 ---
 
 ⭐️ From [Ahmad Abu Alkheir](https://github.com/AhmadAbulkhairr)
