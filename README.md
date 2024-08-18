@@ -31,6 +31,8 @@ An online platform that connects students and teachers, offering various courses
 
 ### [FeedMe Food Delivery Website](https://github.com/AlphaTeamMeraki/MERAKI_Academy_Project_5-)
 A food delivery website with roles for admin, customer, restaurant owner, and rider. The platform offers a seamless experience for managing orders and deliveries.
+#### [project's brief](https://youtu.be/MU9UZHQAinQ?si=UrWvalNrXOTtMbka)
+
 
 ## 📫 Contact Me
 
