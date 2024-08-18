@@ -34,7 +34,7 @@ A food delivery website with roles for admin, customer, restaurant owner, and ri
 
 ## 📫 Contact Me
 
-- LinkedIn: [Ahmad Abu Alkheir](https://www.linkedin.com/in/ahmadabualkhair/)
+- LinkedIn: [Ahmad Abu Alkheir](https://www.linkedin.com/in/aabualkhair/)
 - Email: [ahmad.m.abulkhair@gmail.com](mailto:ahmad.m.abulkhair@gmail.com)
 
 ## ⚡ Fun Fact
